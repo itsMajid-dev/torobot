@@ -241,3 +241,11 @@ Returns the cooperation history of the store:
 print(c.get_history(1))
 ```
 
+
+
+
+
+<a href='https://github.com/itsMajid-dev/torobot/blob/main/torobot_documentation.pdf'>more documentation</a>
+
+
+
