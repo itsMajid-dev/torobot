@@ -5,6 +5,23 @@
 </p>
 
 
+
+**torobot Library**
+
+A Python package for interacting with torob.com!
+
+With this library, you can search for products in various cities using different filters.  
+Set a price range, specify the condition of the product, and more...  
+You can extract details about registered stores on Torob,  
+as well as print the vendors’ information (such as contact number, store address, and location).  
+You can search anonymously, meaning no cookies will be sent from your end to Torob.
+
+Additionally, you have the option to save the above information in any format.  
+You can store it as an Excel file, an HTML table, or in SQL or J‌SON format!
+
+‌
+‌
+
 <p> Search for goods and stores on  <a href="https://torob.com"> torob.com</a>   🍎 </p>
 
 INSTALL
