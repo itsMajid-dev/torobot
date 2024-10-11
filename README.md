@@ -7,6 +7,11 @@
 
 <p> Search for goods and stores on  <a href="https://torob.com"> torob.com</a>   🍎 </p>
 
+INSTALL
+=====
+```bash
+pip install torob
+```
 
 GET START 
 =====
