@@ -30,6 +30,14 @@ INSTALL
 pip install torob
 ```
 
+> Warning : 
+> 
+> During installation, **pandas**, **bs4** and **requests** packages are automatically installed, if an error occurs during installation,
+Install the above packages **separately**.
+
+
+
+
 GET START 
 =====
 ```python
