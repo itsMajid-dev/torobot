@@ -1,4 +1,5 @@
 # torobot
+[![Downloads](https://static.pepy.tech/badge/torob)](https://pepy.tech/project/torob)
 
 <p align="center">
   <img src="https://github.com/itsMajid-dev/torobot/raw/main/image/main-bg.png" alt="ربات ترب" />
